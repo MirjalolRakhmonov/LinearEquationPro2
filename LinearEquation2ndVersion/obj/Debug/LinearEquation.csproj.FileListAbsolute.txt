@@ -1,0 +1,7 @@
+C:\Users\e6530\source\repos\LinearEquation2ndVersion\LinearEquation2ndVersion\obj\Debug\LinearEquation.csproj.CoreCompileInputs.cache
+C:\Users\e6530\source\repos\LinearEquation2ndVersion\LinearEquation2ndVersion\obj\Debug\LinearEquation2ndVersion.exe
+C:\Users\e6530\source\repos\LinearEquation2ndVersion\LinearEquation2ndVersion\obj\Debug\LinearEquation2ndVersion.pdb
+C:\Users\e6530\source\repos\LinearEquation2ndVersion\LinearEquation2ndVersion\bin\Debug\LinearEquation2ndVersion.exe.config
+C:\Users\e6530\source\repos\LinearEquation2ndVersion\LinearEquation2ndVersion\bin\Debug\LinearEquation2ndVersion.exe
+C:\Users\e6530\source\repos\LinearEquation2ndVersion\LinearEquation2ndVersion\bin\Debug\LinearEquation2ndVersion.pdb
+C:\Users\e6530\source\repos\LinearEquation2ndVersion\LinearEquation2ndVersion\obj\Debug\LinearEquation.csprojAssemblyReference.cache
